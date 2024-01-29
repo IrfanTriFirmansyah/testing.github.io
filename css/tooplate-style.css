@@ -387,7 +387,9 @@ http://www.tooplate.com/view/2098-health
     background-color: transparent;
   }
 
-
+  .img-log {
+  width:300px;
+  }
 
   /*---------------------------------------
       HOME              
@@ -1063,6 +1065,10 @@ http://www.tooplate.com/view/2098-health
     #home h3 {
       font-size: 11px;
       letter-spacing: 1px;
+    }
+
+    .img-log{
+      width:200px;
     }
 
   }
